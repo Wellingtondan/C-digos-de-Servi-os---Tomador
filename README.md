@@ -73,5 +73,5 @@ Abaixo estão os códigos de serviços afetados:
 
 :small_blue_diamond:**Observação:** A correta identificação dos serviços sujeitos à retenção do ISS pelo tomador é fundamental para garantir o cumprimento das obrigações tributárias e evitar penalidades. É essencial conferir os códigos de serviços corretamente e assegurar que o prestador informe os códigos de maneira adequada, com a devida retenção aplicada ao responsável pela tributação. O descumprimento pode gerar inconsistências fiscais e possíveis penalidades.
 
-:pushpin: Além da conferência que é feita sobre as retenções, precisamos dar atenção aos códigos utilizados que compete o recolhimento do imposto por parte do tomador do Serviço que são nossos clientes, caso esteja incorreto dificultará a escrituração das NFSe nos sites das prefeituras e o imposto ficará incorreto, pois deve ser destacado para nossos clientes o ISS.
+:pushpin: Além da conferência que é feita sobre as retenções, precisamos dar atenção aos códigos utilizados que compete o recolhimento do imposto por parte do tomador do Serviço, que representa nossos clientes, caso esteja incorreto dificultará a escrituração das NFSe nos sites das prefeituras e o imposto ficará incorreto, pois deve ser destacado para nossos clientes o ISS.
 
