@@ -62,8 +62,8 @@ Abaixo estão os códigos de serviços afetados:
 
 - **Subitens 4.22, 4.23 e 5.09** – Determinados serviços de natureza financeira
 
-Conclusão
+> [!IMPORTANT]
+> CONCLUSÃO:
+> A correta identificação dos serviços sujeitos à retenção do ISS pelo tomador é fundamental para garantir o cumprimento das obrigações tributárias e evitar penalidades.
+> É essencial conferir os códigos de serviços corretamente e assegurar que o prestador informe os códigos de maneira adequada, com a devida retenção aplicada ao responsável pela tributação. O descumprimento pode gerar inconsistências fiscais e possíveis penalidades.
 
-A correta identificação dos serviços sujeitos à retenção do ISS pelo tomador é fundamental para garantir o cumprimento das obrigações tributárias e evitar penalidades.
-
-Caso tenha dúvidas sobre a aplicação do ISS em serviços específicos, recomenda-se consultar a legislação municipal vigente e um profissional da área contábil ou tributária.
