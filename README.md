@@ -4,7 +4,7 @@
 
 Esta documentação tem como objetivo listar os códigos de serviços cuja responsabilidade pelo recolhimento do **Imposto Sobre Serviços de Qualquer Natureza (ISS) é do tomador de serviços**, conforme previsto na **Lei Complementar nº 116, de 31 de julho de 2003**.
 
-🔗 [Lei Complementar nº 116/2003](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm)
+> 🔗 [Lei Complementar nº 116/2003](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm)
 
 ## 1. Códigos de Serviços com Recolhimento pelo Tomador
 
@@ -66,10 +66,12 @@ Abaixo estão os códigos de serviços afetados:
 
 ### 2.1 Lista de serviços anexa à Lei Complementar nº 116, de 31 de julho de 2003:
 
-[Acesse o Link e veja a lista](http://sped.rfb.gov.br/pagina/show/1601)
+> 🔗[Acesse o Link e veja a lista](http://sped.rfb.gov.br/pagina/show/1601)
 
-> [!IMPORTANT]
-> CONCLUSÃO:
-> A correta identificação dos serviços sujeitos à retenção do ISS pelo tomador é fundamental para garantir o cumprimento das obrigações tributárias e evitar penalidades.
-> É essencial conferir os códigos de serviços corretamente e assegurar que o prestador informe os códigos de maneira adequada, com a devida retenção aplicada ao responsável pela tributação. O descumprimento pode gerar inconsistências fiscais e possíveis penalidades.
+
+## 3. Conclusão
+
+:small_blue_diamond:**Observação:** A correta identificação dos serviços sujeitos à retenção do ISS pelo tomador é fundamental para garantir o cumprimento das obrigações tributárias e evitar penalidades. É essencial conferir os códigos de serviços corretamente e assegurar que o prestador informe os códigos de maneira adequada, com a devida retenção aplicada ao responsável pela tributação. O descumprimento pode gerar inconsistências fiscais e possíveis penalidades.
+
+:pushpin: Além da conferência que é feita sobre as retenções, precisamos dar atenção aos códigos utilizados que compete o recolhimento do imposto por parte do tomador do Serviço que são nossos clientes, caso esteja incorreto dificultará a escrituração das NFSe nos sites das prefeituras e o imposto ficará incorreto, pois deve ser destacado para nossos clientes o ISS.
 
