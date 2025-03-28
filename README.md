@@ -62,6 +62,12 @@ Abaixo estão os códigos de serviços afetados:
 
 - **Subitens 4.22, 4.23 e 5.09** – Determinados serviços de natureza financeira
 
+## 2. Correlação - Código do serviço prestado
+
+### 2.1 Lista de serviços anexa à Lei Complementar nº 116, de 31 de julho de 2003:
+
+[Acesse o Link e veja a lista](http://sped.rfb.gov.br/pagina/show/1601)
+
 > [!IMPORTANT]
 > CONCLUSÃO:
 > A correta identificação dos serviços sujeitos à retenção do ISS pelo tomador é fundamental para garantir o cumprimento das obrigações tributárias e evitar penalidades.
